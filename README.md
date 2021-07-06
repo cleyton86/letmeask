@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Letmeask" src=".github/cover.svg" />
+    <img alt="Letmeask" src="/letmeask.png" />
 </h1>
 
 ## 🧪 Technologies
